@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\designmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\designmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\windowsformsapp1\\ucrightmenubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucrightmenubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\windowsformsapp1\\ucrightmenubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucrightmenubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\ucoptionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucoptionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\ucnavbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucnavbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\ucoptionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucoptionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|c:\\users\\anbarasan\\source\\projectmanagementtool\\windowsformsapp1\\windowsformsapp1\\ucnavbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79CF9C-81B7-48BE-95A4-1C4AA6F821F4}|WindowsFormsApp1\\ProjectManagementApp.csproj|solutionrelative:windowsformsapp1\\ucnavbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesignManager.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\DesignManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DesignManager.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\DesignManager.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\DesignManager.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:59:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCOptionBox.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCOptionBox.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCOptionBox.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCOptionBox.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UCOptionBox.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:09:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCNavbar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCNavbar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCNavbar.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCNavbar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UCNavbar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:37:49.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-18T09:51:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCRightMenuBar.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCRightMenuBar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCRightMenuBar.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCRightMenuBar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UCRightMenuBar.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:01:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCRightMenuBar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCRightMenuBar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCRightMenuBar.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCRightMenuBar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UCRightMenuBar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:54:40.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:37:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:37:39.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCOptionBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCOptionBox.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCOptionBox.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCOptionBox.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UCOptionBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:59:16.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\ThemeManager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ThemeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:27:04.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UCNavbar.cs",
+              "DocumentMoniker": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCNavbar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UCNavbar.cs",
+              "ToolTip": "C:\\Users\\Anbarasan\\source\\ProjectManagementTool\\WindowsFormsApp1\\WindowsFormsApp1\\UCNavbar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UCNavbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:48:36.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
